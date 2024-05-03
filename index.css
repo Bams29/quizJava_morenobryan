@@ -1,0 +1,37 @@
+#card{
+    position: absolute;
+    left: 30em;
+    width: 50rem;
+    height: 30em;
+}
+
+#caratcherName{
+    position: absolute;
+    left: em;
+}
+
+#actorName{
+    position: absolute;
+    left: 23em;
+}
+
+#age{
+    position: absolute;
+    top: 8em;
+}
+
+#ubication{
+    position: absolute;
+    top: 8em;
+    left: 23em;
+}
+
+#poster{
+    position: absolute;
+    top: 13em;
+}
+
+#date{
+    position: absolute;
+    top: 13em;
+}
