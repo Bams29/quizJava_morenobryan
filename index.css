@@ -29,9 +29,17 @@
 #poster{
     position: absolute;
     top: 13em;
+    left: 1em;
 }
 
 #date{
     position: absolute;
-    top: 13em;
+    top: 12.5em;
+    left: 23em;
+}
+
+#productor{
+    position: absolute;
+    bottom: 7em;
+    left: 1em;
 }
